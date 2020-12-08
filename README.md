@@ -9,5 +9,5 @@ This code contains only one function, main ().
 
 Every c++ program must have main() function.
 
-As usual, execution begins at main function.
+As usual, execution begins at main() function.
 
