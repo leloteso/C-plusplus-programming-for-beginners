@@ -28,9 +28,9 @@ Line 4 is used to declare a variable with an integer data type.
 
 Now we've got three statements within the main function, these are:
 
--Line 5 to give instructions to the user,
--Line 6 to read input from the user and
--Line 7 to display the user input back to the screen. 
+*Line 5 to give instructions to the user,
+*Line 6 to read input from the user and
+*Line 7 to display the user input back to the screen. 
 
 
 
