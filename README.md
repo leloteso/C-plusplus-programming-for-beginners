@@ -10,7 +10,9 @@ Line 6 defines the scope of the identifiers used in the program.
 The iostream header file should be included at the beginning of all programs that use input/output statements.
 
 This code contains only one function, main ().
+
 Every c++ program must have main() function.
+
 As usual, execution begins at main() function.
 
 The statement on line 8 causes the string in quotation marks to be displayed on the screen.
