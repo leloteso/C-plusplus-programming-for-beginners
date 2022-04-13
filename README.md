@@ -36,7 +36,7 @@ Now we've got four statements within the main function, these are:
 **ifStatement.cpp**
 ================================================================================================================================================================================
 
-* Line 4 and 5 are used tointialize the variable
+* Line 4 and 5 are used to declear and intialize the variable
 * Line 6 checks for the condition if the expression given to if statmenet is true, then the if block will be executed, 
 * Otherwise the else block will be executed 
 * Note:
