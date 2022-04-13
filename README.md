@@ -36,10 +36,10 @@ Now we've got four statements within the main function, these are:
 **ifStatement.cpp**
 ================================================================================================================================================================================
 
-line 4 and 5 are used tointialize the variable
-line 6 checks for the condition if the expression given to if statmenet is true, then the if block will be executed, otherwise 
-the else block will be executed 
-Note:
-else part doesn't take any condition expression like the 'if' 
+* Line 4 and 5 are used tointialize the variable
+* Line 6 checks for the condition if the expression given to if statmenet is true, then the if block will be executed, 
+* Otherwise the else block will be executed 
+* Note:
+  else part doesn't take any condition expression like the 'if' 
 
 
